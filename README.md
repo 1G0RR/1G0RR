@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, Meu nome é Igor Rafael
+<img src="https://i.pinimg.com/736x/81/92/cb/8192cbdee3e391d2e36a54cd1f7823ee.jpg" width="200" height="290">
+<br><br>
 
-<!--
-**1G0RR/1G0RR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💡Sobre mim
+<h3>Sou um estudante de segundo período ciência da computação. Sempre fui facinado por computadores e quando descobrir este mundo vasto da programção resolvi estudar e Python foi a linguagem que me facinou.</h3>
 
-Here are some ideas to get you started:
+# 📖 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Soft skills:</h2>
+<ul>
+    <li>Phyton</li>
+    <li>C</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+<h2>Hard skills</h2>
+<ul>
+ <li>Trabalho em equipe</li>
+ <li>Boa oratoria</li>
+ <li>Paciente</li>
+ <li>Prestativo</li>
+</ul>
