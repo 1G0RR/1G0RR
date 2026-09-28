@@ -17,7 +17,7 @@
 <h2>Hard skills</h2>
 <ul>
  <li>Trabalho em equipe</li>
- <li>Boa oratoria</li>
+ <li>Boa oratória</li>
  <li>Paciente</li>
  <li>Prestativo</li>
 </ul>
